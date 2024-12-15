@@ -1,0 +1,19 @@
+{
+    "name": "wydesu/indonesia-numtoword",
+    "description": "indonesia-numtoword is a package to convert numbers into sentences in Indonesian.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wydesu\\IndonesiaNumtoword\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wydesu",
+            "email": "dedysurya2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
